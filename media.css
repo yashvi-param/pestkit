@@ -57,6 +57,9 @@
         .w-md-4{
             width:25%;
         }
+        .hide{
+            display: none;
+        }
     }
     @media(max-width:767px){
         .w-sm-1

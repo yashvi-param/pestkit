@@ -64,13 +64,22 @@
     font-family: "Open", sans-serif;
     font-size: 20px;
 }
-.logo{
-    font-weight: 8px;
-    font-family: "Open", sans-serif;
-    font-size: 20px;
+.ri-facebook-line{
     color:black;
+   font-size: 30px;
+    text-align:center ;
 }
-.logo a{
+.ri-twitter-fill{
+    color:black;
+   font-size: 30px;
+    text-align:center ;
+}
+.ri-instagram-line{
+    color:black;
+   font-size: 30px;
+    text-align:center ;
+}
+.logo1 a{
     text-decoration: none;
     
 }
@@ -395,9 +404,6 @@
 .more a:hover{
     background-color: black;
     color:yellow;
-}
-.home{
-    /* border: 1px solid red; */
 }
 .container2{
     border-radius: 20px;
